@@ -73,11 +73,11 @@ airflow-lab/
 - All 4 tasks completed successfully
 
 ## Screenshots
-### DAG Graph View
+### DAG Run Succes
 <img width="1600" height="723" alt="image" src="https://github.com/user-attachments/assets/86107985-a0d5-403e-b21c-9ae71baef6df" />
 
 
-### DAG Run Success
+### DAG Graph View
 <img width="1600" height="718" alt="image" src="https://github.com/user-attachments/assets/d77fadfd-1869-492f-9ef3-47df55d8ca22" />
 
 
